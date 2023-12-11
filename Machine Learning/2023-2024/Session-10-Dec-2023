@@ -1,0 +1,16 @@
+# Session of Machine Learning Division of Cyberlabs
+Conducted on 10/12/2023
+
+## Agenda
+Discussion of Squeeze-and-Excitation Networks Paper by Pravan Gupta.
+
+## Summary
+•	Doubts regarding various features of SENet were cleared.
+• Explanation as to why SE nets were introduced.A new block SE block was introduced that could highlight the different feature importance.
+## Attendees:
+•	Pre-final Years: Sudhanshu Rai
+•	Second Years: Alok Raj, Anant Upadhyay, Anany Garg, Ganesh Talwar, Karaka Prasanth Naidu, Manav Jain, Ozair Malakji, Pranav Gupta, Pratham Todi, Samyak Jha and Yogita Singh
+
+## Resources:
+SENet Paper: https://arxiv.org/pdf/1709.01507.pdf
+Report by:- Karaka Prasanth Naidu
